@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Calum Shepherd
 
-You can use the [editor on GitHub](https://github.com/calumshep/calumshep.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a 5th year undergraduate student, studing for a Masters of Engineering in Computing and Electronics at [Heriot-Watt University](https://hw.ac.uk/), Edinburgh.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About my work
 
-### Markdown
+Much of my studies have focused on software development, particularly web development, and I have explored the following technologies in-depth
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- C
+- Java
+- PHP, especially [Laravel](https://laravel.com/)
+- HTML/CSS/Saas
+- Unix + Apache
+- Python
 
-```markdown
-Syntax highlighted code block
+### Portfolio
 
-# Header 1
-## Header 2
-### Header 3
+I design & develop bespoke software for the snowsports industry.
 
-- Bulleted
-- List
+## Contact me
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/calumshep/calumshep.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me for enquiries at my email address, ![email-address-image](https://user-images.githubusercontent.com/29754812/180799728-80bba105-f4d3-4019-bbfb-6d5b2c8c0f31.gif)
